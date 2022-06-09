@@ -2,7 +2,7 @@
 
 <p align="center">Sou uma desenvolvedora web entusiasta pela tecnologia, sempre empolgada em aprender algo novo da área.</p>
 <p align="center"><i>Aqui você pode acompanhar meus projetos e minha evolução como programadora, seja bem-vind!</i></p>
-  <img align="right" src="https://pryrotech.github.io/projects.gif" width="100"/>
+<p align="center"><img src="https://pryrotech.github.io/projects.gif" width="100"/></p>
   
   ```javascript
   const aboutMe = {
