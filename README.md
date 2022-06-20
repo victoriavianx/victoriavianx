@@ -9,7 +9,7 @@
   	pronouns: "she/her",
     	age: 20,
     	code: ["Javascript", "HTML", "CSS"],
-    	tools: ["React", "Redux", "Styled-Components"],
+    	tools: ["React", "Redux", "Styled-Components", "Chakra UI"],
       	learning: ["Node", "PostgreSQL"]
    }
   ```
