@@ -32,6 +32,8 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/victoriavianx/victoriavianx/blob/output/snake.svg" alt="Snake animation" />
-
+<div align="center">
+  <img src="https://github.com/victoriavianx/victoriavianx/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+  
 ###
