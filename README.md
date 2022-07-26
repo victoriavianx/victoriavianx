@@ -10,7 +10,7 @@
     	age: 20,
     	code: ["Javascript", "HTML", "CSS"],
     	tools: ["React", "Redux", "Styled-Components", "Chakra UI"],
-      	learning: ["Node", "PostgreSQL", "TypeScript"]
+      	learning: ["Node", "PostgreSQL", "TypeScript", "Python"]
    }
   ```
   [<img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/victoriavianx/)
