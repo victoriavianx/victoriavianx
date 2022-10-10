@@ -8,7 +8,7 @@
   let aboutMe = {
   	pronouns: "she/her",
     	age: 20,
-    	code: ["Javascript", "Python", "HTML", "CSS"],
+    	code: ["Javascript", "Python"],
     	tools: ["React", "Redux", "Styled-Components", "Chakra UI", "Node", "PostgreSQL"],
       	learning: ["Typescript", "Django"]
    }
