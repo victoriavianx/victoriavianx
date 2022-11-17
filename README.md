@@ -9,8 +9,8 @@
   	pronouns: "she/her",
     	age: 20,
     	code: ["Javascript", "Python"],
-    	tools: ["React", "Redux", "Styled-Components", "Chakra UI", "Node", "PostgreSQL"],
-      	learning: ["Typescript", "Django"]
+    	tools: ["React", "Styled-Components", "Chakra UI", "Node", "PostgreSQL", "Django"],
+      	learning: ["Typescript", "Vue", "Tailwind CSS"]
    }
   ```
   
